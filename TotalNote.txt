@@ -1,0 +1,1 @@
+React,React-router,redux,redux-thunk(middleware),json-server.
